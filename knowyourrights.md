@@ -1,6 +1,6 @@
 # **Data Privacy, Licensing, and Terms Declaration**
 
-All agreements, including **LICENSE.md**, **Terms of Service**, and **Privacy Policy** (whether expressly or indirectly provided), **shall not supersede applicable law or any Data Privacy Regulation** and all what is stated in this document which is herewith there in this documentation.
+All agreements, including **LICENSE.md**, **Terms of Service**, and **Privacy Policy** (whether expressly or indirectly provided), **shall not supersede applicable law or any Data Privacy Regulation** and all what is stated in this document which is herewith there in this documentation. It may not superseed the law and only the relevant section/sentence/word/paragraph shall be considered void.
 
 In all cases where data may be shared:
 
@@ -23,6 +23,11 @@ In all cases where data may be shared:
 
 This policy applies to **all software owned by this GitHub account**.
 
+For all data:
+
+> It has been rendered anonymous through rigorous aggregation and de-identification, excluding any personal information. Clarifiying,  that the information does not contain personal data and has been strictly anonymized and summarized and aggregated in our Data Control GDPR platform. No data is collecter other than basic "who uses" for **BASIC** data security compliance and only that unless specified otherwise. Timings Of Usage will be shared will be rendered anoynomus as detailed in this paragraph. 
+
+
 The **LICENSE.md** for [Arby Audio 3D](https://github.com/space-contributes/arby-audio_3d) governs all projects in this account, regardless of whether the name “Arby Audio” is changed. References to the “Service” apply to all services within this GitHub profile.
 
 All relevant information has been **expressly communicated** to users to ensure proper privacy and awareness of rights, which this project strictly adheres to.
@@ -37,6 +42,12 @@ All relevant information has been **expressly communicated** to users to ensure 
 * All projects created by Aryaman Madge under this GitHub profile (**space-contributes**) are handled by **Space-code**.
 * Space-code is the formal copyright entity for all such projects.
 
+
+
 **Respectfully Submitted and Declared,**
 **space-contributes**
 and/or **Space-code**
+
+Legal Exceptions -
+
+The data platform when data may be managed is subject to change.
