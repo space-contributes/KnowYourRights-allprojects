@@ -14,7 +14,7 @@ In all cases where data may be shared:
 2. For analytics, or
 3. For internal use,
 
-**Users have the right to opt out** by sending a request to **[spacecontributes111@gmail.com](mailto:spacecontributes111@gmail.com)**. It is robot-managed. If no response is provided and no opt-out option existed in the software, the user may **not file a legal claim**, as this indicates either:
+**Users have the right to opt out** by sending a request to **[spacecontributes111@gmail.com](mailto:spacecontributes111@gmail.com)**. It is robot-managed. If no response is provided and no opt-out option existed in the software, the user may not complain (while you may reserve the right to!), as this indicates either:
 
 * No data was collected, or
 * No proof of data collection exists.
