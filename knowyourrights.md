@@ -1,5 +1,11 @@
 # **Data Privacy, Licensing, and Terms Declaration**
 
+
+All contents of this document may be hereinafter reffered to as the "Policy".
+
+----
+
+
 All agreements, including **LICENSE.md**, **Terms of Service**, and **Privacy Policy** (whether expressly or indirectly provided), **shall not supersede applicable law or any Data Privacy Regulation** and all what is stated in this document which is herewith there in this documentation. It may not superseed the law and only the relevant section/sentence/word/paragraph shall be considered void.
 
 In all cases where data may be shared:
@@ -8,7 +14,7 @@ In all cases where data may be shared:
 2. For analytics, or
 3. For internal use,
 
-**Users have the right to opt out** by sending a request to **[spacecontributes111@gmail.com](mailto:spacecontributes111@gmail.com)**. If no response is provided and no opt-out option existed in the software, the user may **not file a legal claim**, as this indicates either:
+**Users have the right to opt out** by sending a request to **[spacecontributes111@gmail.com](mailto:spacecontributes111@gmail.com)**. It is robot-managed. If no response is provided and no opt-out option existed in the software, the user may **not file a legal claim**, as this indicates either:
 
 * No data was collected, or
 * No proof of data collection exists.
@@ -35,7 +41,7 @@ All relevant information has been **expressly communicated** to users to ensure 
 **Updates and Amendments**:
 
 * Any updates to software, terms, or privacy declarations will be published here.
-* Updates not reflected in **LICENSE.md** for Arby Audio 3D will be declared across all agreements, licenses, Terms of Service, and Privacy Policies.
+* Updates not reflected in **LICENSE.md** for Arby Audio 3D will be declared across all agreements, licenses, Terms of Service, and Privacy Policies. All elements are subject to change without notice but this statement is subject to this documents' specific ("Policy").
 
 **Copyright Declaration**:
 
@@ -43,11 +49,11 @@ All relevant information has been **expressly communicated** to users to ensure 
 * Space-code is the formal copyright entity for all such projects.
 
 
+Legal Exceptions -
+
+The data platform where data may be managed is subject to change. All elements of this ("Policy") are subject to i) change without notice ii) but still abide by the current ("Policy").
+
 
 **Respectfully Submitted and Declared,**
 **space-contributes**
 and/or **Space-code**
-
-Legal Exceptions -
-
-The data platform when data may be managed is subject to change.
