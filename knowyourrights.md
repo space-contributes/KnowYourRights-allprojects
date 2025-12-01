@@ -31,7 +31,7 @@ This policy applies to **all software owned by this GitHub account**.
 
 For all data:
 
-> It has been rendered anonymous through rigorous aggregation and de-identification, excluding any personal information. Clarifiying,  that the information does not contain personal data and has been strictly anonymized and summarized and aggregated in our Data Control GDPR platform. No data is collecter other than basic "who uses" for **BASIC** data security compliance and only that unless specified otherwise. Timings Of Usage will be shared will be rendered anoynomus as detailed in this paragraph. 
+> It has been rendered anonymous through rigorous aggregation and de-identification, excluding any personal information. Clarifiying,  the information does not contain personal data and has been strictly anonymized by removing all data except i) nessecary data ii) basic usage timings and are summarized and aggregated in our Data Control GDPR platform. No data is collecter other than basic "who uses" for **BASIC** data security compliance and only that unless specified otherwise. Timings Of Usage will be shared will be rendered anoynomus as detailed in this paragraph. 
 
 
 The **LICENSE.md** for [Arby Audio 3D](https://github.com/space-contributes/arby-audio_3d) governs all projects in this account, regardless of whether the name “Arby Audio” is changed. References to the “Service” apply to all services within this GitHub profile.
