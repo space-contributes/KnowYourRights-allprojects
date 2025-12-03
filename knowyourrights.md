@@ -2,7 +2,7 @@
 
 
 All contents of this document may be hereinafter reffered to as the "Policy".
-
+#### > NO DATA IS SHARED EVEN AS PER THE TERMS AND CONDITIONS OF THE SAID PRODUCT. THIS LINE IS SUBJECT TO CHANGE - WITH NOTICE AND WILL BE DELETED IMMEDIATELY WHEN DATA IS COLLECTED! THE FOLLOWING ONLY APPLIES WHEN THIS LINE IS DELETED. AND THE TERMS AND CONDITIONS ARE MAINLY TO ENSURE THE "AS-IS" BASIS SERVICE AND THAT YOU ARE OBLIGATED TO ENSURE NO MISCONDUCT. NOTHING IS TO THREATEN.
 ----
 
 All agreements, including the LICENSE.md, Terms of Service, and Privacy Policy (whether explicitly mentioned or implied), are subordinate to applicable law and all Data Privacy Regulations. If any part of this documentation or the aforementioned agreements conflicts with the law, only the conflicting section, sentence, word, or paragraph shall be considered void, and this shall not be construed as evidence of bad intent.
