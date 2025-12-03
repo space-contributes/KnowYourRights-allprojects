@@ -5,9 +5,7 @@ All contents of this document may be hereinafter reffered to as the "Policy".
 
 ----
 
-
-All agreements, including **LICENSE.md**, **Terms of Service**, and **Privacy Policy** (whether expressly or indirectly provided), **shall not supersede applicable law or any Data Privacy Regulation** and all what is stated in this document which is herewith there in this documentation. It may not superseed the law and only the relevant section/sentence/word/paragraph shall be considered void.
-
+All agreements, including the LICENSE.md, Terms of Service, and Privacy Policy (whether explicitly mentioned or implied), are subordinate to applicable law and all Data Privacy Regulations. If any part of this documentation or the aforementioned agreements conflicts with the law, only the conflicting section, sentence, word, or paragraph shall be considered void, and this shall not be construed as evidence of bad intent.
 In all cases where data may be shared:
 
 1. To third parties,
