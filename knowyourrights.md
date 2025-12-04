@@ -51,6 +51,7 @@ Legal Exceptions -
 
 The data platform where data may be managed is subject to change. All elements of this ("Policy") are subject to i) change without notice ii) but still abide by the current ("Policy").
 
+For the Marriage Fraud Detector and Thegeofinder only the Arby Audio LICENSE.md is applicable although you shall replace the Arby Audio name with the relevant service.
 
 **Respectfully Submitted and Declared,**
 **space-contributes**
